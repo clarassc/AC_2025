@@ -1,0 +1,7 @@
+1) Phishing
+
+2) Um endereço de email suspeito ou com caracteres "escondidos". Exemplo: banc0dobrasil@gmail.com
+
+3) Prestar atenção no endereço do website, contactar o banco por ligação para confirmar a informação, pesquisar o website do banco para ver se relacionam-se, procurar na internet se o email do banco é o mesmo daquele que lhe enviou o link.
+
+4) Contactar o banco e solicitar o bloqueio da conta, alterar a senha da conta do banco e de qualquer outra conta que tenha a mesma senha. Usar o anti-vírus no computador por precaução.
